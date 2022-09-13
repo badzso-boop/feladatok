@@ -1,0 +1,6 @@
+2. Feladat:
+	Készítsünk projektek, amelyben a bináris és hexadecimális átváltásokat fogjuk gyakorolni.
+	A feladat során nem szabad beépített függvényeket használni!
+		f1.) Generáljon véletlenszerűen 10db számot majd írja ki egy "szamok.txt" fájlba, majd listázza ki ezeket a számokat a képernyőre.
+		f2.) Olvassa be a generált számokat és mindegyiket váltsa át binárisba, majd listázza ki a képernyőre és mentse el a "binaris.txt"-be.
+		f3.) Olvassa be az eredetileg generált számokat és mindegyiket váltsa át hexadecimálisba, majd listázza ki a képernyőre és mentse el a "hexa.txt"-be.

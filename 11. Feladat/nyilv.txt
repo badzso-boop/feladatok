@@ -1,0 +1,16 @@
+100100#Az ezüst tó kincse#Karl May#3500#k
+100101#Csontbrigád#Rejtõ Jenõ#360#p
+100102#Vuk#Fekete István#247#p
+100103#Kele#Fekete István#310#p
+100104#Az elátkozott part#Rejtõ Jenõ#190#k
+100105#Lutra#Fekete István#296#p
+100106#Winnetou#Karl May#760#k
+100107#Az inka öröksége#Karl May#462#k
+100108#Vadászatok erdõn, mezõn#Fekete István#185#p
+100109#Az elveszett cirkáló#Rejtõ Jenõ#280#k
+100110#Piszkos Fred a kapitány#Rejtõ Jenõ#412#k
+100111#Az olajkirály#Karl May#167#p
+100112#A sivatag szelleme#Karl May#398#k
+100113#A tizennégy karátos autó#Rejtõ Jenõ#189#p
+100114#Vanek úr Párizsban#Rejtõ Jenõ#241#k
+100115#Tüskevár#Fekete István#367#p

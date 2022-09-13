@@ -1,0 +1,7 @@
+3. Feladat:
+	Gyakorló feladatok
+		f1.) Adjunk  meg  egy  kiinduló  szót  konstansként,  majd  olvassunk  be  szavakat,  amíg  a felhasználó el nem rontja a szóláncot, írjuk "szavak.txt" állományba! Addig jó a szólánc, amíg az előző szó utolsó betűje megegyezik a következő szó első betűjével! Pl. alak,kati, ital, ló, ókor, ...
+		f2.) Listázzuk képernyőre a fájlban tárolt szavakat, írjuk ki a szólánc hosszát!
+		f3.) Van-e két azonos szó az állományban?
+		f4.) Rendezzük az 1. feladatban tárolt szavakat a szavak hossza alapján csökkenő sorrendbe, majd írjuk a "rendez.txt" állományba!
+		f5.) Rendezzük az 1. feladatban tárolt szavakat abc sorrendbe, majd írjuk az "abc.txt" állományba!

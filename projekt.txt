@@ -1,0 +1,22 @@
+Projekt ötletek:
+	1. Memória játék
+	2. SZámológép
+	3. To-do lista készítése
+	4. Pénzváltó
+	5. Mozi foglaló rendszere
+	6. Időjárás app
+	7. Beléptető rendszer (signin/signup)
+	8. Kvíz app (kahoot, vagy sima kviz)
+	9. Email, hírek összegyűjtő app
+	10. Saját referencia oldal készítés
+
+Projekt elkészítésének a lépései
+	1. Pontos és részletes terv készítése
+	2. Ha adatbázis is szükségeltetik akkor annak a tervének elkészítése.
+	3. Függvények átgondolása és logika felépítése (ha lehet egy függvényt többször is felhasználni)
+	4. Fájlok létrehozása
+	5. Programozás
+	6. Design elkészítése
+		6.1 Először mobilra és utána számítógépre (upscaling)
+		6.2 Először számítógépre majd utána mobilra (downscaling)
+		Megjegyzés: A design stilus választása függ attól, hogy hol fogják többet használni.

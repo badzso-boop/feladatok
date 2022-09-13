@@ -1,0 +1,7 @@
+4. Feladat:
+	Egy üzemanyag kútnál n számú autó tankolt. Program kérje be "*" végjelig az autók rendszámát és a tankolt mennyiséget, írja ki
+		f1.) hány autó tankolt?
+		f2.) az autók összesen hány l üzemanyagot tankoltak?
+		f3.) hány autó tankolt 21 l alatt, 21-30 l-ig és 30 liter felett?
+		f4.) volt-e 10 l alatti tankolás?
+		f5.) átlag felett tankoló autók rendszámát és a tankolt mennyiséget!

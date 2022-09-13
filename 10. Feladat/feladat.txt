@@ -1,0 +1,11 @@
+10. Feladat:
+	Készítsünk projektet, amelyben a helyi mozinak az admin felületét készítjük el. A "foglaltsag.txt"-ben tárolják, hogy az adott teremnek melyik széke van már lefoglalva és melyik szabad. (x -> foglalt, o -> szabad). Mivel minden székből más szemszögből látszik a vászon ezért nem minden széknek ugyan az az ára. A székek árát a "kategoria.txt"-ben találja.
+	A feladatok megoldása során egy működő webaplikációt hozzon létre.
+		f1.) Olvassa be és tárolja el a foglaltsag.txt és a kategoria.txt fájl adatait!
+		f2.) Kérje be a felhasználótól egy sor, és azon belül egy szék számát, majd írassa ki a képernyőre, hogy az adott hely még szabad-e vagy már foglalt!
+		f3.) Kérje be a felhasználótól hány db jegyet szeretne venni, majd listázza ki azokat a helyeket ahol tudnak a számára jegyet értékesíteni.
+        	f4.) Írja ki a képernyőre, hogy hány jegyet adtak el eddig, és ez a nézőtér befogadóképességének hány százaléka! A százalékértéket kerekítse egészre, és az eredményt a következő formában írassa ki a képernyőre: "Az előadásra eddig 187db jegyet adtak el, ez a nézőtér 62%-a" 
+		f5.) Írja ki a képernyőre, hogy melyik árkategóriában értékesítették a legtöbb jegyet
+		f6.) Írja ki a képernyőre, hogy mennyi a mozi pillanatnyi bevétele
+		f7.) Írja ki a képernyőre, hogy a moziban hány darab egyedülálló hely van.
+		f8.) Hozzon létre egy "szabad.txt"- ahova a "foglaltsag.txt"-t egészíti ki, úgy hogy a szabad helyek helyére az adott szék kategóriáját írja ki számmal.

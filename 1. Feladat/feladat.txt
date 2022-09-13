@@ -1,0 +1,8 @@
+1. Feladat:
+	Függvények gyakorlása!
+		f1.) függvény1 átveszi a kör sugarát visszaadja területét!
+		f2.) függvény2 átvesz egy egész számot, stringben visszaadja hogy "páros" vagy "páratlan"!
+		f3.) függvény3 átveszi egy labdarúgó mérkőzés végeredményét (rúgott és kapott gólok számát), visszaadja stringben "hazai győzelem" "döntetlen" vagy "vendég győzelem"!
+		f4.) függvény4 átveszi a henger sugarát és magasságát, visszaadja a térfogatát!
+		f5.) függvény5 átveszi egy négyzetes hasáb alapélét és magasságát, visszaadja a felszínét!
+		f6.) függvény6 átveszi egy tanuló félévi és évvégi átlageredményét, stringben visszaadja, hogy "rontott" "javított" vagy "azonos szinten teljesített".

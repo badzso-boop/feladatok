@@ -1,0 +1,9 @@
+11. Feladat:
+	Készítsen programot, amellyel feldolgozza egy könyvesbolt nyilvántartását! A nyilvántartást exportált formában a „nyilv.txt” fájlban találja. Egy sor egy könyv adatait tartalmazza. Az adatok sorrendben: leltári szám, cím, szerző, oldalszám, kötés típusa (k= kemény fedeles, p= puha fedeles). Az adatokat „#” jel választja el egymástól. A program úgy működjön, hogy más adatok esetén is megfelelő eredményt adjon!
+		f1.) Olvassa be a fájlban tárolt adatokat, használjon struktúra tömböt!
+		f2.) Írja ki, hány darab könyv van a nyilvántartásban!
+		f3.) Listázza Rejtő Jenő könyveinek összes adatát táblázatosan!
+		f4.) Mi a leghosszabb könyv címe?
+		f5.) Írja ki, van-e a nyilvántartásban 200 oldalnál kisebb terjedelmű puha fedeles könyv?
+		f6.) Írja ki azon könyvek címét, amelyek címében van „v” vagy „V” betű!
+		f7.) Írja ki a kemény/puha kötésű könyvek százalékos megoszlását!

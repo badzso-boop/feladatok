@@ -1,0 +1,7 @@
+5. Feladat:
+	Egy forgalom ellenőrző ponton n számú autó haladt keresztül. Írjon programot, amely "*" végjelig bekéri az autók rendszámát, sebességét, kiírja
+     	f1.) az áthaladó autók számát!
+		f2.) a leggyorsabb autó rendszámát sebességét!
+		f3.) azon autók rendszámát és a büntetési tételét, amelyek a megengedett sebességhatárt ( 90 km/h ) túllépték az alábbiak szerint (91-100 km/h 10000 Ft; 101-110 km/h 30000 Ft; 110 km/h felett 50000 Ft)!
+		f4.) az összes bírságot!
+		f5.) az autók hány %-a közlekedett szabályosan?

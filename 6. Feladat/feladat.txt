@@ -1,0 +1,8 @@
+6. Feladat:
+	Készítsünk projektet, amelyben bemutatjuk egy kézilabda bajnokság végén (9 forduló) a csapat teljesítményét!
+		f1.) Kérje be játékosonként azon belül fordulónként a szerzett gólok számát, adja vissza a hívóprogramnak!
+		f2.) Vegye át a mátrixot, írja ki versenyzőnként a szerzett gólok számát és a játékosok legjobb eredményét!
+		f3.) Vegye át a mátrixot, írja ki fordulónként a szerzett gólok számát és a fordulók legjobb eredményét!
+		f4.) Vegye át a mátrixot, írja ki szerzett gólok szerint csökkenő sorrendben a játékosok nevét és a szerzett gólok számát!
+		f5.) Vegye át a mátrixot, írja ki, minden játékos dobott-e gólt?
+		f6.) Vegye át a mátrixot, írja ki melyik fordulóban kinek sikerült a legtöbb gólt dobni? (ha több van, valamennyit ki kell írni!)

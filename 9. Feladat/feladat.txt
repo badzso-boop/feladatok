@@ -1,0 +1,5 @@
+9. Feladat:
+	A mellékelt "tenisz.txt" állományban a világranglistán legjobb helyen szereplő teniszezők adatait tároljuk, egymást követő sorokban a teniszező neve majd a szerzett pontjainak száma.
+		f1.) Olvassa be a fájlban tárolt adatokat, és listázza képernyőre a versenyzők adatait, majd írja ki a versenyzők számát és a versenyzők által szerzett összpontszámot!
+		f2.) Írja ki, a leghosszabb nevü teniszező adatait!
+		f3.) Készítsen eredmény sorrendet, írja ki a szerzett pontok száma szerint csökkenő sorrendben a teniszezők adatait az "eredmeny.txt" állományba! (Egy sorban tároljuk a nevet majd szóközzel elválasztva a pontszámot!)  
