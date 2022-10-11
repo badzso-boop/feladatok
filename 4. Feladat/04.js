@@ -59,16 +59,33 @@ console.log(petrol.length);
     if (petrol[i] < 21) {
       sum++;
       console.log(`${sum} autó tankolt 21l alatt.`);
+    } else if (21 < petrol[i] < 30) {
+      sum++;
+      console.log(`${sum} autó tankolt 21l és 30l között.`);
+    } else if (30 < petrol[i]) {
+      sum++;
+      console.log(`${sum} autó tankolt 30l fölött.`);
     }
   }
 }
 
 // 		f4.) volt-e 10 l alatti tankolás?
 
-let above10L = false;
+let under10L = false;
 if (petrol[i] < 10) {
-  above10L = true;
+  under10L = true;
 }
-console.log(above10L);
+console.log(under10L);
 
 // 		f5.) átlag felett tankoló autók rendszámát és a tankolt mennyiséget!
+{
+  let sum = 0;
+  for (i = 0; i < petrol.length - 1; i++) sum += petrol[i];
+
+  let avg = sum / petrol.length;
+  let aboveAvg = [];
+  if (petrol[i] > avg) {
+    aboveAvg.push(petrol[i]);
+    console.log(`${cars[i]} ${petrol[i]} az átlag felett tankolt.`);
+  }
+}
