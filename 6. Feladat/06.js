@@ -33,26 +33,26 @@
 //   [26, 0, 22, 15, 16, 10, 32, 5, 8, 30, 18, 31]
 // ];
 
+function proba() {
+  let jatekosok = document.getElementById("jatekosok").value;
+
+  for (let i = 0; i < jatekosok; i++) {
+    let JatekosInput = document.createElement("input");
+  
+    JatekosInput.id = "valami" ;
+    
+    document.body.appendChild(JatekosInput);
+  }
+}
+
+
+
 let players = ["Hakeem Olajuwon", "Kobe Bryant", "Shaquille O’Neal"];
 
 let goals = [[8, 12, 5], [18, 22, 16], [15, 32, 26]];
 
 for (let i = 0; i < players.length; i++) {
-  for (let k = 0; k < goals.length; k++) {
-    for (let j = 0; j < goals.length; j++) {
-      console.log(`${players[i]} ${k + 1}.körben ${goals[k][i]}`);
-    }
-  }
-}
-
-let season = [
-  ["Hakeem Olajuwon", "Kobe Bryant", "Shaquille O’Neal"],
-  [[8, 12, 5], [18, 22, 16], [15, 32, 26]]
-];
-
-for (let i = 0; i < season.length; i++) {
-  for(let )
-  for (let j = 0; j < season[1].length; j++){
-    console.log(`${season[0]}`)
+  for (let j = 0; j < goals[i].length; j++) {
+    console.log(`${players[i]} ${j + 1}.körben ${goals[i][j]}`);
   }
 }
