@@ -1,9 +1,53 @@
 7. Feladat:
 	Készítsünk projektet, amelyben bemutatjuk egy kosárlabda bajnokság végén a csapat teljesítményét!
-		f0.) Olvassa be a fájlból a játékosok nevét.
-     	f1.) Kérje be játékosonként külön az 1, 2, 3 pontos kosarak számát 10 * 3 -as mátrixba, adja vissza a hívóprogramnak!
+	  f0.) Olvassa be a fájlból a játékosok nevét.
+     	  f1.) Kérje be játékosonként külön az 1, 2, 3 pontos kosarak számát 10 * 3 -as mátrixba, adja vissza a hívóprogramnak! -> input boxokkal kerd be :D
           f2.) Vegye át a mátrixot, írja ki versenyzőnként a szerzett pontok számát!
           f3.) Vegye át a mátrixot, írja ki az 1,2,3 pontos kosarak számát!
           f4.) Vegye át a mátrixot, írja ki, hogy ki dobta a legtöbb kosarat és mennyit(ha több van valamennyit ki kell írni)!
           f5.) Vegye át a mátrixot, írja ki pontszám szerint csökkenő sorrendben a 3 legjobb játékos nevét és a szerzett pontok számát!
           f6.) Vegye át a mátrixot, írja ki, volt - e olyan játékos aki nem dobott 3 pontos kosarat?
+	  
+	
+2 Dimenzios tomb leterhozasa
+	// Create one dimensional array
+	  	var gfg = new Array(2);
+
+		document.write("Creating 2D array <br>");
+
+	// Loop to create 2D array using 1D array
+		for (var i = 0; i < gfg.length; i++) {
+		    gfg[i] = new Array(2);
+		}
+
+		var h = 0;
+	// Loop to initialize 2D array elements.
+		for (var i = 0; i < 2; i++) {
+		    for (var j = 0; j < 2; j++) {
+			gfg[i][j] = h++;
+		    }
+		}
+
+	// Loop to display the elements of 2D array. 
+		for (var i = 0; i < 2; i++) {
+		    for (var j = 0; j < 2; j++)    {
+			document.write(gfg[i][j] + " ");
+		    }
+		    document.write("<br>");
+		} 
+		
+		
+function Beolvas() {
+    let file = document.getElementById("proba").files[0]
+
+    if (file) {
+        var reader = new FileReader();
+        reader.readAsText(file, "UTF-8");
+        reader.onload = function (kispista) {
+            console.log(kispista.target.result);
+        }
+        reader.onerror = function (evt) {
+            console.log("error reading file");
+        }
+    }
+}
