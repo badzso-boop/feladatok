@@ -1,12 +1,1 @@
-Hakeem Olajuwon
-Kobe Bryant
-Shaquille O’Neal
-Larry Bird
-Oscar Robertson
-Bill Russell
-Julius Erving
-Wilt Chamberlin
-Magic Johnson
-Kareem Abdul-Jabbar
-LeBron James
-Michael Jordan
+Hakeem Olajuwon,Kobe Bryant,Shaquille O’Neal,Larry Bird,Oscar Robertson,Bill Russell,Julius Erving,Wilt Chamberlin,Magic Johnson,Kareem Abdul-Jabbar,LeBron James,Michael Jordan
